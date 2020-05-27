@@ -29,7 +29,7 @@ def most_common_time(List, time_unit):
 def most_common_station(List):
 	station_list = List
 	return(mode(station_list))
-
+#function to find the most common route
 def most_common_route(start, end):
 	route = list(zip(start, end))
 	return(mode(route))
