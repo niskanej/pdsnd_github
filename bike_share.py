@@ -131,7 +131,7 @@ while(term_loop):
 			input_flag = False
 			t2 = time.time()
 			print('Calculation time:',t2-t1)
-		elif(data_group == '5'):
+		elif(data_group == '5'):#option 5 invokes raw data scrolling
 			input_flag_2 = True
 			while(input_flag_2):
 				interval= input('How many lines of raw data would you like retrieved?\n:')
