@@ -1,4 +1,5 @@
 #Udacity Project 2: Bike Share Data Analysis
+#Description: Analize Bike share data from New York, Chicago, and Washington
 #Author: Jon Niskanen
 #Date: 4/30/2020
 import pandas as pd
