@@ -25,7 +25,7 @@ def most_common_time(List, time_unit):
 	else:
 		print('invalid time unit error in most most_common_time function')#error catch
 		return 1
-
+#function to find the most common station in a given list
 def most_common_station(List):
 	station_list = List
 	return(mode(station_list))
