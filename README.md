@@ -2,7 +2,7 @@
 Date created: 05/27/2020
 
 ### Project Title
-Bike Share Project
+Udacity Bike Share Project
 
 ### Description
 Analize bike share data from New York, Chicago, and Washington us a python script
