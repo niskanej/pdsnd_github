@@ -1,15 +1,22 @@
 ### Date created
-Include the date you created this project and README file.
+Date created: 05/27/2020
 
 ### Project Title
-Replace the Project Title
+Bike Share Project
 
 ### Description
-Describe what your project is about and what it does
+Analize bike share data from New York, Chicago, and Washington us a python script
 
 ### Files used
-Include the files used
+bike_share.py
+chicago.csv
+newyork.csv
+washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Original repository: https://github.com/udacity/pdsnd_github
+references: 
+https://learnpython.org
+https://wiki.python.org
+https://docs.python.org
+https://pandas.pydata.org
